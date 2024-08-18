@@ -1,0 +1,1106 @@
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&display=swap'); 
+
+
+.nav-link {
+    color: #444444;
+}
+.nav-link:hover {
+    color: #5BA515;
+}
+.teta {
+    color: #5BA515;
+}
+.featured2 {
+  justify-content: center;
+ 
+}
+
+.navdrop {
+    text-decoration: none;
+    color: #111;
+}
+.icon2 {
+    color: #5BA515;
+}
+
+.plants-btn {
+    background-color: #5BA515;
+    color: #fff;
+    width: 180px;
+    height: 52px;
+    border-color: transparent;
+    border-radius: 40px;
+}
+
+
+.liniya {
+border: none;
+height: 5px;
+background-color:  #111;
+margin: 20px 0;
+width: 13%;
+}
+
+   
+    .fonn1 {
+      
+        background-image: url(/public/images/Plants/b-bg.jpg);
+        background-size: cover;
+        background-position: center;
+        padding: 1rem;
+        width: 100%;
+    }
+    .fon2 {
+        background-image: url(/public/images/Plants/b-bg2.jpg);
+        background-size: cover;
+        background-position: center;
+        padding: 1rem;
+        width: 100%;
+    }
+
+    .fon3 {
+        background-image: url(/public/images/Plants/b-bg3.jpg);
+        background-size: cover;
+        background-position: center;
+        padding: 1rem;
+        width: 100%;
+
+    }
+    .fon4 {
+        background-image: url(/images/HomeAbout/b-bg7.jpg);
+        background-size: cover;
+        background-position: center;
+        
+        
+   
+    }
+    .cernaya-liniya {
+        width: 13%;
+            border-radius: 0%;
+            border: none;
+            height: 4px;
+            background-color: #5BA515;
+            margin: 5px 0;
+            }
+            .nadpis {
+                text-decoration: none;
+                color: #656565;
+               
+            }
+            .cena {
+                font-family:Verdana, Geneva, Tahoma, sans-serif;
+                font-weight: 500;
+                font-size: large;
+            }
+          .featureCol {
+            border-color: #111;
+          width: 294px;
+          }
+       .circle {
+        width: 260px;
+        height: 110px;
+        border-radius: 50px; 
+        background-color: #fff; 
+        color: #444444; 
+        display: flex; 
+        align-items: center; 
+        justify-content: center; 
+        font-size: 18px; 
+        font-family: Arial, sans-serif; 
+        border-color: #111;
+        text-align: center; 
+        margin: 10px; 
+        border: 1px solid #dee2e6 !important;
+        
+       }
+       .circle-footer {
+        width: 160px;
+        height: 50px;
+        border-radius: 50px; 
+        background-color: #fff; 
+        color: #444444; 
+        display: flex; 
+        align-items: center; 
+        justify-content: center; 
+        font-size: 12px; 
+      
+        border-color: #111;
+        text-align: center; 
+        
+        border: 1px solid #dee2e6 !important;
+       }
+     
+       .icon {
+        color: #5BA515;
+       font-size: 95px;
+      display: flex;
+       
+       }
+      .icon1 {
+        color: #5BA515;
+        font-size: 40px;
+        margin-right: 10px;
+        display: flex;
+       }
+      
+     
+      .nav-color {
+        color: #5BA515;
+
+      }
+    
+
+       .cifri {
+        font-size:80px;
+        color: #5BA515;
+       }
+       .vremya {
+        color: #656565;
+        font-size: 16.5px;
+        
+       }
+   .swiper-pagination {
+    color: #5BA515;
+   }
+   .liniya-footer {
+    width: 80%;
+   
+  margin-left: 130px;
+   }
+    .second-half {
+        color: #5BA515;
+    }
+  
+    .active2 {
+        font-family: "Abril Fatface", serif;
+        font-weight: 100;
+        font-style: normal;
+    }
+.active {
+    color: #5BA515;
+}
+  .active1 {
+    color: #656565;
+  }
+  .p-color {
+    color: #656565;
+  }
+
+  .stats {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+ 
+  }
+  
+  .stat-item {
+    text-align: center;
+  }
+  
+  .stat-item h2 {
+    font-size: 2rem;
+    margin: 0;
+  }
+  
+  .stat-item p {
+    margin: 5px 0 0;
+    font-size: 1rem;
+    color: #666;
+  }
+.FON {
+    background-color: #F6F6F6;
+}
+ 
+
+
+@media(min-width:320px) and (max-width:376px) {
+  .navlogo {
+    margin-bottom: 20px;
+  }
+
+  .icon-container {
+    display: none;
+  }
+    .store-left-side img{
+        margin-top: 20px;
+        width: 300px;
+       height: 300px;
+       }
+       .store-right-side {
+       font-size: 13px;
+    }
+    .store-tel {
+      color: #656565;
+
+    }
+       .featurred img {
+        width: 300px;
+       }
+
+       
+.Gonna{
+    padding-top: 30px;
+    font-size: 29px;
+    font-family: "Abril Fatface", sans-serif;
+  font-weight: 200;
+  font-style: normal;
+}
+.Wellcome{
+   
+    font-size: 20px;
+    font-family: "Abril Fatface", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+
+
+.plant1 {
+ display: none;
+}
+.plant2 {
+  display: none;
+}
+.plant3 {
+display: none;
+}
+.storeimg {
+width: 100px;
+height: 100px;
+}
+
+
+.swiper-button-next:after, .swiper-rtl .swiper-button-prev:after {
+    content: none;
+    display: none;
+}
+
+
+.swiper-button-prev:after, .swiper-rtl .swiper-button-prev:after {
+    content: none;
+    display: none;
+    
+}
+
+.nadpis {
+    color: #656565;
+}
+ ::after, ::before {
+    box-sizing: content-box !important;
+}
+
+
+.process-step {
+  background-color: #eeeeee;
+  padding: 20px;
+  border-radius: 5px;
+  width: 350px;
+  height: 215px;
+  position: relative;
+  margin-bottom: 30px;
+}
+
+.step-header {
+  display: flex !important;
+  justify-content: center;
+  position: absolute;
+  width: 109px;
+  top: -20px;
+  background-color: #5ca410;
+  color: white;
+  padding: 10px;
+  border-radius: 3px;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.FORM {
+  
+  background-color: #F5F5F5;
+
+  
+  }
+  .email-form {
+      height: 60vh;
+      align-items: center;
+      justify-content: center;
+      display: flex;
+      
+  }
+  .form-text {
+    font-size: 20px;
+    align-items: center;
+  }
+  .form-control {
+      display: block;
+      border-radius: 20px;
+      width: 90%;
+      height: 50px;
+      
+    
+  }
+  form input, form textarea {
+      
+      border-color: transparent !important;
+      border-bottom: 1px solid #dedede;
+      resize: none;
+     
+  }
+.FORM {
+ 
+  width:350px;
+  
+}
+.email-img {
+  width: 270px;
+}
+
+.step-number {
+  font-weight: bold;
+  
+}
+
+.step-content h3 {
+  margin-top: 10px;
+}
+
+.team-img-container{
+  position: relative;
+  display: inline-block;
+}
+
+.team-img-container img{
+  display: block;
+  transition: opacity 0.5s ease;
+}
+
+.team-img-container :hover img {
+  width: 10px;
+  opacity: 0.5 ;
+}
+
+.step-content p {
+  color: #666;
+}
+
+  .footer-gapp {
+   gap: 70px;
+   
+  }
+  .liniya-footer {
+    width: 60%;
+    margin-left: 60px;
+  }
+
+  .delivery-process {
+   
+    height: 884px;
+  
+  }
+  
+  
+  
+  .title {
+    font-size: 2rem;
+    text-align: center;
+    margin-bottom: 20px;
+  }
+  
+  .process-step {
+    background-color: #eeeeee;
+    border-radius: 5px;
+    width: 290px;
+    height: 210px;
+    position: relative;
+  }
+  
+  .step-header {
+    display: flex !important;
+    justify-content: center;
+    position: absolute;
+    width: 109px;
+    top: -20px;
+    background-color: #5ca410;
+    color: white;
+    padding: 10px;
+    border-radius: 3px;
+    display: inline-block;
+    margin-bottom: 10px;
+  }
+  
+  .step-number {
+    font-weight: bold;
+    
+  }
+  
+  .step-content h3 {
+    margin-top: 0;
+  }
+  
+  .step-content p {
+    color: #666;
+  }
+  .nav-drop {
+    display: none;
+  }
+}
+
+
+@media(min-width:376px) and (max-width:767px) {
+  .nav-drop {
+    display: none;
+  }
+  .navlogo {
+    margin-bottom: 20px;
+  }
+  .icon-container {
+    display: none;
+  }
+  .store-left-side img{
+    margin-top: 20px;
+    width: 300px;
+   height: 300px;
+   }
+   .store-right-side {
+   font-size: 13px;
+}
+.store-tel {
+  color: #656565;
+
+}
+   .featurred img {
+    width: 300px;
+   }
+
+   
+.Gonna{
+padding-top: 30px;
+font-size: 29px;
+font-family: "Abril Fatface", sans-serif;
+font-weight: 200;
+font-style: normal;
+}
+.Wellcome{
+
+font-size: 20px;
+font-family: "Abril Fatface", serif;
+font-weight: 400;
+font-style: normal;
+}
+
+
+.plant1 {
+display: none;
+}
+.plant2 {
+display: none;
+}
+.plant3 {
+display: none;
+}
+.storeimg {
+width: 100px;
+height: 100px;
+}
+
+
+.swiper-button-next:after, .swiper-rtl .swiper-button-prev:after {
+content: none;
+display: none;
+}
+
+
+.swiper-button-prev:after, .swiper-rtl .swiper-button-prev:after {
+content: none;
+display: none;
+
+}
+
+.nadpis {
+color: #656565;
+}
+::after, ::before {
+box-sizing: content-box !important;
+}
+
+
+.process-step {
+background-color: #eeeeee;
+padding: 20px;
+border-radius: 5px;
+width: 350px;
+height: 215px;
+position: relative;
+margin-bottom: 30px;
+}
+
+.step-header {
+display: flex !important;
+justify-content: center;
+position: absolute;
+width: 109px;
+top: -20px;
+background-color: #5ca410;
+color: white;
+padding: 10px;
+border-radius: 3px;
+display: inline-block;
+margin-bottom: 10px;
+}
+
+.FORM {
+
+background-color: #F5F5F5;
+
+
+}
+.email-form {
+  height: 50vh;
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  
+}
+.form-text {
+font-size: 20px;
+align-items: center;
+}
+.form-control {
+  display: block;
+  border-radius: 20px;
+  width: 40%;
+  height: 50px;
+  
+
+}
+form input, form textarea {
+  
+  border-color: transparent !important;
+  border-bottom: 1px solid #dedede;
+  resize: none;
+ 
+}
+
+
+
+.step-number {
+font-weight: bold;
+
+}
+
+.step-content h3 {
+margin-top: 10px;
+}
+
+.team-img-container{
+position: relative;
+display: inline-block;
+}
+
+.team-img-container img{
+display: block;
+transition: opacity 0.5s ease;
+}
+
+.team-img-container :hover img {
+width: 10px;
+opacity: 0.5 ;
+}
+
+.step-content p {
+color: #666;
+}
+
+.footer-gapp {
+gap: 70px;
+
+}
+.usluqi {
+  padding-left: 54px;
+}
+
+
+
+}
+
+
+
+@media(min-width:768px) and (max-width:991px) {
+  .navlogo {
+    margin-bottom: 20px;
+  }
+
+  
+.FORM {
+ width: 700px;
+ height: 340px;
+}
+
+
+.store-left-side img{
+  margin-top: 20px;
+  width: 500px;
+ height: 500px;
+ }
+ .store-right-side {
+ font-size: 22px;
+}
+.store-tel {
+color: #656565;
+
+}
+ .featurred img {
+  width: 300px;
+ }
+
+ .aboutliniya {
+  width: 12%;
+ }
+.Gonna{
+padding-top: 30px;
+font-size: 29px;
+font-family: "Abril Fatface", sans-serif;
+font-weight: 200;
+font-style: normal;
+}
+.Wellcome{
+
+font-size: 40px;
+font-family: "Abril Fatface", serif;
+font-weight: 400;
+font-style: normal;
+}
+
+
+.plant1 {
+display: none;
+}
+.plant2 {
+display: none;
+}
+.plant3 {
+display: none;
+}
+.storeimg {
+width: 100px;
+height: 100px;
+}
+
+
+.swiper-button-next:after, .swiper-rtl .swiper-button-prev:after {
+color: #444444;
+}
+
+
+.swiper-button-prev:after, .swiper-rtl .swiper-button-prev:after {
+color: #444444;
+
+}
+
+.nadpis {
+color: #656565;
+}
+::after, ::before {
+box-sizing: content-box !important;
+}
+
+
+.process-step {
+background-color: #eeeeee;
+padding: 20px;
+border-radius: 5px;
+width: 350px;
+height: 215px;
+position: relative;
+margin-bottom: 30px;
+}
+
+.step-header {
+display: flex !important;
+justify-content: center;
+position: absolute;
+width: 109px;
+top: -20px;
+background-color: #5ca410;
+color: white;
+padding: 10px;
+border-radius: 3px;
+display: inline-block;
+margin-bottom: 10px;
+}
+
+.FORM {
+
+background-color: #F5F5F5;
+
+
+}
+.email-form {
+height: 50vh;
+align-items: center;
+justify-content: center;
+display: flex;
+
+}
+.form-text {
+font-size: 30px;
+align-items: center;
+}
+.form-control {
+display: block;
+border-radius: 20px;
+width: 50%;
+height: 50px;
+
+
+}
+form input, form textarea {
+
+border-color: transparent !important;
+border-bottom: 1px solid #dedede;
+resize: none;
+
+}
+
+
+
+.step-number {
+font-weight: bold;
+
+}
+
+.step-content h3 {
+margin-top: 10px;
+}
+
+.team-img-container{
+position: relative;
+display: inline-block;
+}
+
+.team-img-container img{
+display: block;
+transition: opacity 0.5s ease;
+}
+
+.team-img-container :hover img {
+width: 10px;
+opacity: 0.5 ;
+}
+
+.step-content p {
+color: #666;
+}
+
+.footer-gapp {
+gap: 40px;
+}
+
+
+.liniya-footer {
+  width: 62%;
+}
+
+
+.delivery-process {
+   
+  height: 984px;
+
+}
+
+
+
+.title {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.process-step {
+  background-color: #eeeeee;
+  border-radius: 5px;
+  width: 690px;
+  height: 200px;
+  position: relative;
+}
+
+.step-header {
+  display: flex !important;
+  justify-content: center;
+  position: absolute;
+  width: 109px;
+  top: -20px;
+  background-color: #5ca410;
+  color: white;
+  padding: 10px;
+  border-radius: 3px;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.step-number {
+  font-weight: bold;
+  
+}
+
+.step-content h3 {
+  margin-top: 0;
+  font-size: 30px;
+}
+
+.step-content p {
+  color: #666;
+  font-size: 20px;
+}
+
+}
+
+
+
+
+@media(min-width:992px) {
+
+    .headerphoto {
+        width: 165px;
+       margin-top: -30px;
+    }
+.navbar-nav {
+    gap: 18px;
+}
+
+    .plant1 {
+        width: 720px;
+        height: 600px;
+        margin-top: -520px;
+        margin-left: 720px;
+    }
+    .fonn1 {
+        padding-top: 180px;
+    }
+    .liniyaa {
+        
+height: 5px;
+background-color:  #5BA515;
+margin: 20px 0;
+width: 38%;
+    }
+   
+    .plant2 {
+        width: 900px;
+        height: 699px;
+        margin-top: -550px;
+        margin-left: 420px;
+    }
+    .plant3 {
+        width: 550px;
+        height: 500px;
+        margin-top: -250px;
+        margin-left: 700px;
+    }
+
+
+
+    .Wellcome{
+      padding-top: 120px;
+      
+      font-family: "Abril Fatface", serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  .Gonna{
+      padding-top: 20px;
+      font-size: 81px;
+      font-family: "Abril Fatface", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+    .store-left-side {
+        margin-top: 125px;
+       }
+
+    .swiper-button-next:after, .swiper-rtl .swiper-button-prev:after {
+        content: 'next';
+       color: #444444;
+    
+       
+      
+    }
+    
+    
+    .swiper-button-prev:after, .swiper-rtl .swiper-button-prev:after {
+        content: 'prev';
+        color: #444444;
+        
+
+    }
+
+.FORM {
+width: 1270px;
+background-color: #F5F5F5;
+padding: 110px;
+
+}
+.email-form {
+    height: 100vh;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    
+}
+.form-control {
+    display: block;
+    border-radius: 20px;
+    width: 40%;
+    height: 50px;
+    /* margin: 20px 200px; */
+  
+}
+form input, form textarea {
+    
+    border-color: transparent !important;
+    border-bottom: 1px solid #dedede;
+    resize: none;
+   
+}
+.USLUQA {
+    padding-left: 120px;
+   }
+.buttonemail {
+  padding-left: 400px;
+  padding-top: 40px;
+
+}
+.header2-dropdown {
+    display: none;
+}
+
+.py-5 {
+    padding-top: 6rem !important;
+    padding-bottom: 6rem !important;
+}
+
+
+.my-3 {
+    margin-top: 3rem !important;
+    margin-bottom: 10rem !important;
+}
+
+.aboutliniya {
+  
+    width: 10%;
+    border-radius: 0%;
+    border: none;
+   
+   background-color: green;
+   
+}
+
+.collapsible-section {
+    width: 50%;
+  }
+  
+  .collapsible-section div {
+    border-bottom: 1px solid #ddd;
+    padding: 15px 10px;
+    cursor: pointer;
+  }
+  
+  .collapsible-section h3 {
+    margin: 0;
+    font-size: 1.2em;
+    font-weight: bold;
+  }
+  
+  .collapsible-section p {
+    margin-top: 10px;
+    font-size: 1em;
+    color: #555;
+  }
+  
+  .collapsible-section div:last-child {
+    border-bottom: none;
+  }
+  
+  .collapsible-section div:hover {
+    background-color: #f9f9f9;
+  }
+  .image-section img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 5px;
+  }
+
+  
+.delivery-process {
+   
+  height: 884px;
+ padding: 0 80px 0 80px;
+}
+
+.step_01-2{
+ 
+  display: flex;
+  justify-content: end;
+}
+
+.step_01-4{
+  display: flex;
+  justify-content: end;
+}
+
+
+.title {
+  font-size: 2rem;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.process-step {
+  background-color: #eeeeee;
+  padding: 20px;
+  border-radius: 5px;
+  width: 500px;
+  height: 215px;
+  position: relative;
+}
+
+.step-header {
+  display: flex !important;
+  justify-content: center;
+  position: absolute;
+  width: 109px;
+  top: -20px;
+  background-color: #5ca410;
+  color: white;
+  padding: 10px;
+  border-radius: 3px;
+  display: inline-block;
+  margin-bottom: 10px;
+}
+
+.step-number {
+  font-weight: bold;
+  
+}
+
+.step-content h3 {
+  margin-top: 0;
+}
+
+.step-content p {
+  color: #666;
+}
+
+  .footer-gapp {
+   gap: 70px;
+   
+  }
+  .home-navv {
+ margin-left: 70px;
+  }
+  .navlogo {
+    margin-right: 120px;
+    margin-bottom: 20px;
+  }
+}
+
